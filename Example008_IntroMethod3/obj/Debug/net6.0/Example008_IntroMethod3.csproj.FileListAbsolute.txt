@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\bin\Debug\net6.0\Example008_IntroMethod3.exe
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\bin\Debug\net6.0\Example008_IntroMethod3.deps.json
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\bin\Debug\net6.0\Example008_IntroMethod3.runtimeconfig.json
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\bin\Debug\net6.0\Example008_IntroMethod3.dll
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\bin\Debug\net6.0\Example008_IntroMethod3.pdb
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.AssemblyInfo.cs
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.dll
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\refint\Example008_IntroMethod3.dll
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.pdb
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\Example008_IntroMethod3.genruntimeconfig.cache
+C:\Users\Home\Documents\Examples\Example008_IntroMethod3\obj\Debug\net6.0\ref\Example008_IntroMethod3.dll
