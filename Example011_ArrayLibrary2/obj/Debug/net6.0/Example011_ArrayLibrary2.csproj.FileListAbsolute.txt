@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.AssemblyInfo.cs
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\bin\Debug\net6.0\Example011_ArrayLibrary2.exe
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\bin\Debug\net6.0\Example011_ArrayLibrary2.deps.json
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\bin\Debug\net6.0\Example011_ArrayLibrary2.runtimeconfig.json
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\bin\Debug\net6.0\Example011_ArrayLibrary2.dll
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\bin\Debug\net6.0\Example011_ArrayLibrary2.pdb
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.dll
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\refint\Example011_ArrayLibrary2.dll
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.pdb
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\Example011_ArrayLibrary2.genruntimeconfig.cache
+C:\Users\Home\Documents\Examples\Example011_ArrayLibrary2\obj\Debug\net6.0\ref\Example011_ArrayLibrary2.dll
