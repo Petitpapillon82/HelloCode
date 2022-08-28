@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\bin\Debug\net6.0\Example012_Methods_task2_Array.exe
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\bin\Debug\net6.0\Example012_Methods_task2_Array.deps.json
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\bin\Debug\net6.0\Example012_Methods_task2_Array.runtimeconfig.json
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\bin\Debug\net6.0\Example012_Methods_task2_Array.dll
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\bin\Debug\net6.0\Example012_Methods_task2_Array.pdb
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.AssemblyInfo.cs
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.dll
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\refint\Example012_Methods_task2_Array.dll
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.pdb
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\Example012_Methods_task2_Array.genruntimeconfig.cache
+C:\Users\Home\Documents\Examples\Example012_Methods_task2_Array\obj\Debug\net6.0\ref\Example012_Methods_task2_Array.dll
