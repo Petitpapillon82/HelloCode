@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\bin\Debug\net6.0\Example013_RecursionAlgorithm_factorial.exe
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\bin\Debug\net6.0\Example013_RecursionAlgorithm_factorial.deps.json
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\bin\Debug\net6.0\Example013_RecursionAlgorithm_factorial.runtimeconfig.json
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\bin\Debug\net6.0\Example013_RecursionAlgorithm_factorial.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\bin\Debug\net6.0\Example013_RecursionAlgorithm_factorial.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\refint\Example013_RecursionAlgorithm_factorial.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\Example013_RecursionAlgorithm_factorial.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_factorial\obj\Debug\net6.0\ref\Example013_RecursionAlgorithm_factorial.dll
