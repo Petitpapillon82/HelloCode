@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\bin\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.exe
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\bin\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.deps.json
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\bin\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.runtimeconfig.json
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\bin\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\bin\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\refint\Example013_RecursionAlgorithm_fibonacci.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\Example013_RecursionAlgorithm_fibonacci.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\Example013_RecursionAlgorithm_fibonacci\obj\Debug\net6.0\ref\Example013_RecursionAlgorithm_fibonacci.dll
