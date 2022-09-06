@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\bin\Debug\net6.0\exother.exe
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\bin\Debug\net6.0\exother.deps.json
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\bin\Debug\net6.0\exother.runtimeconfig.json
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\bin\Debug\net6.0\exother.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\bin\Debug\net6.0\exother.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\refint\exother.dll
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\exother.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Учеба GB\Examples\exother\obj\Debug\net6.0\ref\exother.dll
